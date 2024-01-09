@@ -7,10 +7,7 @@ module.exports = {
             'sourceType': 'module',
             ecmaFeature: {
                 jsx: true
-            },
-eslint: { 
-      ignoreDuringBuilds: true, 
-    }, 
+            } 
             // experimentalObjectRestSpread: true,
             // jsx: true
         }
